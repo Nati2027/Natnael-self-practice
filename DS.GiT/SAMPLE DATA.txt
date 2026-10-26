@@ -3,3 +3,4 @@ Weekly Sales of Pharmaceutical Products
 Product A: 120 units, Revenue = $1260.00
 Product B: 85 units, Revenue = $1275.00
 Product C: 150 units, Revenue = $1312.50
+Product D : 1150 units, Revenue = $13112.50
