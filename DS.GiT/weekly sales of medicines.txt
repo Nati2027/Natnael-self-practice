@@ -1,0 +1,54 @@
+
+# One-Week Medicine Sales Report
+
+## 1. Project Overview
+
+This project presents the weekly sales performance of three medicines: Paracetamol, Amoxicillin, and Gofen.
+
+**Reporting Period:** 19–25 October 2026
+
+**Purpose:** To practice Markdown formatting and Git/GitHub version control.
+
+## 2. Weekly Sales Data
+
+| No. | Medicine | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday | Total Units |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | Paracetamol | 120 | 135 | 110 | 150 | 160 | 180 | 95 | 950 |
+| 2 | Amoxicillin | 60 | 75 | 65 | 80 | 90 | 100 | 50 | 520 |
+| 3 | Gofen | 40 | 45 | 50 | 55 | 60 | 70 | 30 | 350 |
+| | **Total** | **220** | **255** | **225** | **285** | **310** | **350** | **175** | **1,820** |
+
+## 3. Key Sales Findings
+
+- **Best-selling medicine:** Paracetamol, with 950 units sold.
+- **Second-best-selling medicine:** Amoxicillin, with 520 units sold.
+- **Lowest-selling medicine:** Gofen, with 350 units sold.
+- **Best sales day:** Saturday, with 350 units sold.
+- **Lowest sales day:** Sunday, with 175 units sold.
+
+## 4. Sales Performance Summary
+
+| Medicine | Total Units Sold | Share of Total Sales |
+|---|---:|---:|
+| Paracetamol | 950 | 52.2% |
+| Amoxicillin | 520 | 28.6% |
+| Gofen | 350 | 19.2% |
+| **Total** | **1,820** | **100%** |
+
+## 5. Recommendations
+
+1. Maintain adequate stock of Paracetamol because it has the highest sales volume.
+2. Monitor Amoxicillin demand and manage inventory appropriately.
+3. Review Gofen sales trends to identify opportunities to improve performance.
+4. Track daily sales to identify demand patterns and optimize replenishment.
+
+
+## 6. Conclusion
+
+Paracetamol generated the highest unit sales during the reporting week. Saturday recorded the highest total sales across all three medicines.
+
+**Note:** All sales figures are illustrative and do not represent actual market data.
+
+**Author:** Natnael Sileshi Assfaw
+
+**Project Status:** In Progress
